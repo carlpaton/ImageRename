@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{70A04105-42D9-44AD-A50D-E86AF5F5E14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRename.Ca", "src\ImageRename.Ca\ImageRename.Ca.csproj", "{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBE0E2EF-66F2-4BAA-B0A6-6686B30DBB0B} = {70A04105-42D9-44AD-A50D-E86AF5F5E14F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C852C7FE-7FA2-4E24-BE9C-AAF12840E67B}
+	EndGlobalSection
+EndGlobal
